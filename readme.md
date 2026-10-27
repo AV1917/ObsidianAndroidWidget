@@ -1,4 +1,4 @@
-# ObsidianAndroidWidgets
+# ObsidianAndroidWidget
 
 Android home screen widget for displaying Obsidian notes on Android.
 
