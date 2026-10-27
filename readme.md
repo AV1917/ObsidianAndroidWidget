@@ -28,7 +28,7 @@ This fork originally focused on making the original widget stable on modern Andr
 - Support for footnotes, inline and display LaTeX maths, and Obsidian callouts, including icons, nesting, and collapsible sections.
 
 <details>
-<summary><strong>Show all supported Markdown & Obsidian features (click to expand)</strong></summary>
+<summary><strong>❗ Show all supported Markdown & Obsidian features (click to expand)</strong></summary>
 
 - **Formatting:** Headings, bold, italics, strikethrough, blockquotes, and horizontal rules.
 - **Basic HTML:** Supports basic HTML formatting alongside Markdown, including underlined, superscript, and subscript text.
