@@ -53,15 +53,28 @@ This fork originally focused on making the original widget stable on modern Andr
 
 ## Screenshots
 
-### Comparison
+### Widget Comparison
 
-| Original | Fork - Dark Mode | Fork - Light Mode |
+| Original | Fork – Dark Mode | Fork – Light Mode |
 |---|---|---|
-| ![Original](https://github.com/user-attachments/assets/0ebeaf4e-36e5-4331-a965-709d8e3ac629) | ![Fork - Dark Mode](https://github.com/user-attachments/assets/17528220-7712-4689-b9d1-fa5ae657f03d) | ![Fork - Light Mode](https://github.com/user-attachments/assets/bc325ee3-d1e5-43ec-9d54-b98cefc950c8) |
+| ![Original](https://github.com/user-attachments/assets/e9e916b4-a4ae-4247-8519-d42e2803f69b) | ![Fork – Dark Mode](https://github.com/user-attachments/assets/17528220-7712-4689-b9d1-fa5ae657f03d) | ![Fork – Light Mode](https://github.com/user-attachments/assets/bc325ee3-d1e5-43ec-9d54-b98cefc950c8) |
 
-### Improved Config Screen
+### Config Comparison
 
-<img src="https://github.com/user-attachments/assets/4a51b612-f6e9-454d-97cc-8b06e91aed3c" width="285">
+<table>
+  <tr>
+    <th>Original</th>
+    <th>Fork</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/99d62d62-d5fd-48ec-b379-ebbef20d8654" width="280">
+    </td>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/8570fb1d-8e2f-496a-89cb-66499a23cf11" width="280">
+    </td>
+  </tr>
+</table>
 
 ## Install
 
